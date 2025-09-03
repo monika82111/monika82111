@@ -1,4 +1,5 @@
-# 👋 Welcome to My Digital Universe
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monika
+#  Welcome to My Digital Universe
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Monika;Full-Stack+Developer+%7C+Security+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
